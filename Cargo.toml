@@ -1,0 +1,7 @@
+[package]
+name = "rock-paper-scissors"
+version = "0.1.0"
+authors = ["WesJD <wesjavadev@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
