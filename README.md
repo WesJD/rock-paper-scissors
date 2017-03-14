@@ -1,5 +1,5 @@
-#rock-paper-scissors
+# rock-paper-scissors
 A simple rock paper scissors game written in [Rust](https://www.rust-lang.org).
 
-#License
+# License
 This project is licensed under [MIT License](LICENSE).
